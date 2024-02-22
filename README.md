@@ -9,9 +9,9 @@ Before running the script, make sure you have Scapy installed. You can install i
 
 ```bash
 pip install scapy
-
-
-`\```
 python network_scanner.py -t <target>
-example
+```
+#example
+```bash
 python network_scanner.py -t 192.168.1.1/24
+```
