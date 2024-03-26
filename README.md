@@ -15,10 +15,10 @@ pip install scapy
 https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
 ```
 NetworkScanner >> Scripts >> Activate 
-#run command from Projetcs folder
+->>run command from Projetcs folder
 
 #To use the network scanner, run the script NetworkScanner.py with the following command-line options:
-#give this commad to target network
+ -->give this commad to target network
 
 ```bash
 python NetworkScanner.py -t <target>
