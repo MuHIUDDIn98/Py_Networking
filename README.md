@@ -32,6 +32,6 @@ python NetworkScanner.py -t 192.168.1.0/24
 
 ##Network Scanning output :
 
-![Scanning output](https://github.com/MuHIUDDIn98/Py_Networking/raw/master/NetworkScanner/screeShot/ScanningOutput.PNG)
+![Scanning output](https://github.com/MuHIUDDIn98/Py_Networking/NetworkScanner/screeShot/ScanningOutput.PNG)
 
 
