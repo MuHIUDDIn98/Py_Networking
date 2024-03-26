@@ -13,5 +13,5 @@ python NetworkScanner.py -t <target>
 ```
 #example
 ```bash
-python NetworkScanner.py -t 192.168.1.1/24
+python NetworkScanner.py -t 192.168.1.0/24
 ```
