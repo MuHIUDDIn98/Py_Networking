@@ -15,10 +15,8 @@ pip install scapy
 NetworkScanner >> Scripts >> Activate 
 ->>run command from Projetcs folder
 
-##you can build your own python venv from this link 
-```bash
-https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
-```
+##you can build your own python venv  [visit this website](https://medium.com/analytics-vidhya/virtual-environment-6ad5d9b6af59)
+
 
 #To use the network scanner, run the script NetworkScanner.py with the following command-line options:
  -->give this commad to target network
