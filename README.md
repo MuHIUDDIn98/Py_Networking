@@ -29,3 +29,8 @@ python NetworkScanner.py -t <target>
 ```bash
 python NetworkScanner.py -t 192.168.1.0/24
 ```
+
+##ScreenShot of Output
+![Screenshot](NetworkScanner/screeShot
+/network scanner output.PNG)
+
